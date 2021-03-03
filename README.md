@@ -7,3 +7,32 @@
 * **Currently learning Django.**
 * **Adjectives: Enthusiast, Realist, Minimalist.**
 > I desire to build my own start-up company in the future!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bunyodev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnorqobilovdotio&screen_name=bunyodev)
+
+
+### Connect with me:
+
+[<img align="left" alt="bunyodev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="bunyodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bunyodev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+
+
+<br />
+
+
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="bunyodev's GitHub Stats" src="https://github-readme-stats-bunyodev.vercel.app/api?username=bunyodev&show_icons=true&hide_border=true&theme=dark" />
+
+</details>
+
+[twitter]: https://twitter.com/bunyodev
+[linkedin]: https://linkedin.com/in/bunyodev
+[github]: https://github.com/bunyodev
+
+
+

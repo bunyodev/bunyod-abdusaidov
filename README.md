@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="bunyodev's GitHub Stats" src="https://github-readme-stats-bunyodev.vercel.app/api?username=bunyodev&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="bunyodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bunyodev&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 

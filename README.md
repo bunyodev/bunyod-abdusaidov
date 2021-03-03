@@ -8,9 +8,6 @@
 
 > I desire to build my own start-up company in the future!
 
-
-# Connect with me:
-
 [<img align="left" alt="bunyodev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bunyodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bunyodev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
@@ -31,6 +28,3 @@
 [twitter]: https://twitter.com/bunyodev
 [linkedin]: https://linkedin.com/in/bunyodev
 [github]: https://github.com/bunyodev
-
-
-

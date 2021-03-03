@@ -1,4 +1,3 @@
-
 ## Hi there 👋 I'm Bunyod, Junior Backend Developer.
 ### I'm seeking an internship to put my acquired knowledge and skills into practice, and gain experience.
 
@@ -6,12 +5,11 @@
 * **Currently working on social media project.**
 * **Currently learning Django.**
 * **Adjectives: Enthusiast, Realist, Minimalist.**
+
 > I desire to build my own start-up company in the future!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bunyodev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnorqobilovdotio&screen_name=bunyodev)
 
-
-### Connect with me:
+# Connect with me:
 
 [<img align="left" alt="bunyodev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bunyodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -24,7 +22,7 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="bunyodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bunyodev&show_icons=true&hide_border=true&theme=dark" />
 

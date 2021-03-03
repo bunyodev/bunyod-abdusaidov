@@ -8,11 +8,6 @@
 
 > I desire to build my own start-up company in the future!
 
-<details>
-  <summary>GitHub Stats</summary>
-  <img align="left" alt="bunyodev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bunyodev&show_icons=true&hide_border=true&theme=dark" />
-</details>
-
 [twitter]: https://twitter.com/bunyodev
 [linkedin]: https://linkedin.com/in/bunyodev
 [github]: https://github.com/bunyodev

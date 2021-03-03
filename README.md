@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Bunyod, Junior Backend Developer.
+## Hi there 👋 I'm Bunyod, Junior Backend Developer.[<img alt="bunyodev | Twitter" width="22px" style="vertical-align:middle;margin:0px 0px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] [<img align="right" alt="bunyodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="right" alt="bunyodev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
 ### I'm seeking an internship to put my acquired knowledge and skills into practice, and gain experience.
 
 * **Check out my [blog](https://t.me/bunyodev) and [resume](https://gist.github.com/bunyodev/92e929ae4dd471820b6b2479d9ff26d7).**
@@ -8,9 +8,7 @@
 
 > I desire to build my own start-up company in the future!
 
-[<img align="left" alt="bunyodev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bunyodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bunyodev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+
 
 
 <br />
